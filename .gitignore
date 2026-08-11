@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Keep the required documentation and project files tracked
+!.gitignore
+!AGENTS.md
+!PROJECT_INDEX.md
+!.docs/
+!.docs/**
+node_modules
+
