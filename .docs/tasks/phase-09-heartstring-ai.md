@@ -2,7 +2,7 @@
 
 ## Goal
 
-Implement Eternal Bond's AI assistant.
+Implement Yunis's AI assistant.
 
 ---
 

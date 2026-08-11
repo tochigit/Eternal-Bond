@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines how Eternal Bond is packaged as a mobile application.
+Defines how Yunis is packaged as a mobile application.
 
 ---
 

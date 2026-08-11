@@ -78,8 +78,8 @@ Copy competitors without purpose.
 
 ---
 
-Forget why Eternal Bond exists.
+Forget why Yunis exists.
 
 Every feature must help people build stronger, healthier, and more meaningful relationships.
 
-If a feature violates that purpose, it does not belong in Eternal Bond.
+If a feature violates that purpose, it does not belong in Yunis.

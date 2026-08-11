@@ -1,8 +1,8 @@
-# Eternal Bond Bible
+# Yunis Bible
 
 ## Purpose
 
-The Bible documents the long-term philosophy of Eternal Bond.
+The Bible documents the long-term philosophy of Yunis.
 
 Unlike the PRD, which explains what to build, the Bible explains why it exists and how decisions should be made.
 

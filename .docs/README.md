@@ -1,6 +1,10 @@
-# Eternal Bond Documentation
+# Yunis Documentation
 
-Welcome to the Eternal Bond knowledge base.
+Welcome to the Yunis knowledge base.
+
+Yunis — Stay connected to what matters.
+
+Relationships need connection. Connection needs intention.
 
 This directory is the single source of truth for the project. Every AI agent and developer must use this documentation before making changes.
 
@@ -20,7 +24,7 @@ This directory is the single source of truth for the project. Every AI agent and
 - standards/ → Coding, naming, and project standards.
 - prompts/ → Reusable prompts when needed.
 - decisions/ → Important engineering and product decisions.
-- templates/ → Templates for documentation and tasks.
+- templates/ → Reusable documentation templates for agents, APIs, components, database tables, decisions, features, PRDs, and tasks.
 
 ---
 
@@ -62,4 +66,4 @@ When multiple documents exist, use this order:
 
 Workspace Phase: In Progress
 
-The documentation will expand as Eternal Bond is developed.
+The documentation will expand as Yunis is developed.

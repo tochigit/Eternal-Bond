@@ -2,7 +2,7 @@
 
 ## Goal
 
-Deploy Eternal Bond to production.
+Deploy Yunis to production.
 
 ---
 

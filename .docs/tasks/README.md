@@ -1,8 +1,8 @@
-# Eternal Bond Implementation Tasks
+# Yunis Implementation Tasks
 
 ## Purpose
 
-This directory contains the implementation roadmap for Eternal Bond.
+This directory contains the implementation roadmap for Yunis.
 
 The project is divided into phases.
 

@@ -2,7 +2,7 @@
 
 ## Goal
 
-Build the core feature of Eternal Bond.
+Build the core feature of Yunis.
 
 Everything else depends on Bonds.
 

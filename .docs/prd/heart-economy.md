@@ -2,7 +2,7 @@
 
 ## Goal
 
-Hearts are Eternal Bond's premium virtual currency.
+Hearts are Yunis's premium virtual currency.
 
 They power premium experiences throughout the application.
 
@@ -61,7 +61,7 @@ Pricing is determined by the user's selected country and currency.
 
 Users may send Hearts to friends.
 
-Gifted Hearts remain inside the Eternal Bond ecosystem.
+Gifted Hearts remain inside the Yunis ecosystem.
 
 ---
 

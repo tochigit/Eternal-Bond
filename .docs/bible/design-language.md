@@ -2,7 +2,7 @@
 
 ## Philosophy
 
-Eternal Bond should feel emotionally warm, premium, and timeless.
+Yunis should feel emotionally warm, premium, and timeless.
 
 The interface should never feel like a social media platform or a corporate dashboard.
 
@@ -83,4 +83,4 @@ Avoid generic stock photos whenever possible.
 
 ## Long-Term Goal
 
-Users should immediately recognize Eternal Bond from its design language alone.
+Users should immediately recognize Yunis from its design language alone.

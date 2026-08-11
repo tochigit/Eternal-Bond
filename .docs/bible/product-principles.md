@@ -60,7 +60,7 @@ Never compromise it.
 
 ## 8. Sustainable Business
 
-Revenue allows Eternal Bond to survive.
+Revenue allows Yunis to survive.
 
 Manipulation is not an acceptable business strategy.
 

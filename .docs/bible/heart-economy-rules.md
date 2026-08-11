@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Hearts are the premium currency of Eternal Bond.
+Hearts are the premium currency of Yunis.
 
 They should always feel meaningful.
 

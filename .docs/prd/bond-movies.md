@@ -39,7 +39,7 @@ HeartString AI may:
 - Monthly Recap
 - Year in Review
 - Anniversary Movie
-- Friendship Journey
+- Relationship Journey
 - Family Journey
 - Couple Journey
 - Custom

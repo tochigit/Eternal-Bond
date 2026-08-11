@@ -2,7 +2,7 @@
 
 ## Goal
 
-Provide administrators with a secure and comprehensive interface to manage Eternal Bond without requiring direct database access.
+Provide administrators with a secure and comprehensive interface to manage Yunis without requiring direct database access.
 
 The Admin Panel must never expose sensitive infrastructure details.
 

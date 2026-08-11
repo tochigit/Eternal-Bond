@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Eternal Bond exists to build stronger relationships.
+Yunis exists to build stronger relationships.
 
 Revenue allows the platform to continue serving users for years to come.
 
@@ -22,7 +22,7 @@ Never lock essential relationship features behind unreasonable paywalls.
 
 ## Business Model
 
-Eternal Bond earns revenue through:
+Yunis earns revenue through:
 
 - Subscriptions
 - Hearts

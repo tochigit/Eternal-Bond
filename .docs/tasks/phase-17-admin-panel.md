@@ -2,7 +2,7 @@
 
 ## Goal
 
-Build a secure internal dashboard for managing Eternal Bond.
+Build a secure internal dashboard for managing Yunis.
 
 The Admin Panel is for platform administration only and must never expose sensitive infrastructure or user data beyond approved permissions.
 

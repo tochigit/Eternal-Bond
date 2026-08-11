@@ -16,7 +16,7 @@ Defines usage of shadcn/ui components.
 
 # Styling
 
-Follow Eternal Bond design system.
+Follow Yunis design system.
 
 Avoid unnecessary overrides.
 

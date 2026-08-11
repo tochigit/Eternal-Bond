@@ -15,7 +15,7 @@ Users should never be forced to participate.
 Examples:
 
 - Global Chat
-- Friendship Stories
+- Relationship Stories
 - Tips & Advice
 - Challenge Hub
 - Creator Showcase

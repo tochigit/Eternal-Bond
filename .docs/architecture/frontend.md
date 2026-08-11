@@ -88,7 +88,7 @@ Avoid unnecessary global state.
 - Consistent
 - Fast
 
-All UI should follow the Eternal Bond design system.
+All UI should follow the Yunis design system.
 
 ---
 

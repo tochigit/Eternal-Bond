@@ -27,7 +27,7 @@ Country determines:
 
 Introduce:
 
-- Eternal Bond
+- Yunis
 - Hearts
 - HeartString AI
 - Bonds

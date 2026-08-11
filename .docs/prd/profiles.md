@@ -2,7 +2,7 @@
 
 ## Goal
 
-A user's profile represents their identity throughout Eternal Bond.
+A user's profile represents their identity throughout Yunis.
 
 Profiles should feel personal, expressive, and trustworthy.
 
@@ -65,7 +65,7 @@ Examples:
 - Active Bonds
 - Memories Created
 - Challenges Completed
-- Years on Eternal Bond
+- Years on Yunis
 
 ---
 

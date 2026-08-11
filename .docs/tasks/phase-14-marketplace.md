@@ -2,7 +2,7 @@
 
 ## Goal
 
-Launch the Eternal Bond Marketplace.
+Launch the Yunis Marketplace.
 
 ---
 

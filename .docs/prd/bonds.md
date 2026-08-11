@@ -2,7 +2,7 @@
 
 ## Goal
 
-The Bond is the core feature of Eternal Bond.
+The Bond is the core feature of Yunis.
 
 Everything revolves around a Bond.
 
@@ -35,7 +35,7 @@ Each Bond contains:
 
 Examples:
 
-- Friendship
+- Meaningful Relationship
 - Couple
 - Family
 - Siblings

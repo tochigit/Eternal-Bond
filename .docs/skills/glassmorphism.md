@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines Eternal Bond's visual style.
+Defines Yunis's visual style.
 
 ---
 

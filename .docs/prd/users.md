@@ -6,13 +6,15 @@ People who already have an existing relationship.
 
 Examples:
 
-- Friends
 - Couples
-- Families
-- Long-distance partners
 - Best friends
-- Roommates
+- Families
 - Siblings
+- Long-distance relationships
+- Study partners
+- Gaming partners
+- Accountability partners
+- Other meaningful personal relationships
 
 ---
 
@@ -52,7 +54,7 @@ Users who want the complete experience.
 
 ## User Motivations
 
-Users join Eternal Bond to:
+Users join Yunis to:
 
 - Stay close.
 - Create memories.

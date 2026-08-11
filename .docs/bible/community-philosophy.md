@@ -4,7 +4,7 @@
 
 The community exists to inspire stronger relationships.
 
-It is not the primary purpose of Eternal Bond.
+It is not the primary purpose of Yunis.
 
 Relationships always come first.
 

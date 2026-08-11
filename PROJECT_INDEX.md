@@ -15,7 +15,7 @@ Only begin implementation after understanding the documentation.
 
 # Project Index
 
-Master navigation for the Eternal Bond documentation. This index is generated from the files that currently exist under `.docs` and should be regenerated whenever documentation is added, removed, or reorganized.
+Master navigation for the Yunis documentation. This index is generated from the files that currently exist under `.docs` and should be regenerated whenever documentation is added, removed, or reorganized.
 
 ## Table of Contents
 
@@ -82,7 +82,7 @@ If recording a major product or engineering choice:
 ## Root Documentation
 
 - [.docs/README.md](.docs/README.md)
-  - Entry point for the Eternal Bond knowledge base, documentation structure, workflow, and priority order. It governs how agents and developers should load the rest of the docs.
+  - Entry point for the Yunis knowledge base, documentation structure, workflow, and priority order. It governs how agents and developers should load the rest of the docs.
 
 ## Agents
 
@@ -133,7 +133,7 @@ If recording a major product or engineering choice:
 ## Bible
 
 - [.docs/bible/README.md](.docs/bible/README.md)
-  - Entry point for the Eternal Bond Bible, reading order, and relationship to other documentation. Related to all philosophy documents in this folder.
+  - Entry point for the Yunis Bible, reading order, and relationship to other documentation. Related to all philosophy documents in this folder.
 
 - [.docs/bible/ai-behavior.md](.docs/bible/ai-behavior.md)
   - Defines expected AI communication style, decision making, transparency, privacy, and reliability. Related to AI philosophy, AI architecture, and HeartString AI requirements.
@@ -142,7 +142,7 @@ If recording a major product or engineering choice:
   - Defines the product philosophy for AI, including what AI should and should not do. Related to AI behavior, AI architecture, and AI gateway skill guidance.
 
 - [.docs/bible/bond-lifecycle.md](.docs/bible/bond-lifecycle.md)
-  - Describes the lifecycle model for bonds inside Eternal Bond. Related to the bond system PRD and relationship growth model.
+  - Describes the lifecycle model for bonds inside Yunis. Related to the bond system PRD and relationship growth model.
 
 - [.docs/bible/community-philosophy.md](.docs/bible/community-philosophy.md)
   - Defines the community purpose, principles, content expectations, privacy posture, and growth approach. Related to the community PRD and moderation requirements.
@@ -163,7 +163,7 @@ If recording a major product or engineering choice:
   - Defines monetization principles, business model posture, trust expectations, and long-term thinking. Related to subscriptions, Hearts Economy, marketplace, and monetization PRDs.
 
 - [.docs/bible/philosophy.md](.docs/bible/philosophy.md)
-  - Defines the core Eternal Bond mission, beliefs, product identity, and success criteria. Related to product vision, product principles, and all feature requirements.
+  - Defines the core Yunis mission, beliefs, product identity, and success criteria. Related to product vision, product principles, and all feature requirements.
 
 - [.docs/bible/product-principles.md](.docs/bible/product-principles.md)
   - Lists the core product principles for relationships, meaning, quality, AI, privacy, and trust. Related to PRD decisions and design language.
@@ -212,7 +212,7 @@ If recording a major product or engineering choice:
 ## PRD
 
 - [.docs/prd/README.md](.docs/prd/README.md)
-  - Entry point for Eternal Bond product requirements, goals, and reading order. Related to all feature-specific PRD files.
+  - Entry point for Yunis product requirements, goals, and reading order. Related to all feature-specific PRD files.
 
 - [.docs/prd/admin-panel.md](.docs/prd/admin-panel.md)
   - Defines admin panel goals, design philosophy, and admin roles. Related to admin implementation tasks, security requirements, and moderation workflows.
@@ -392,6 +392,9 @@ If recording a major product or engineering choice:
   - Defines launch phase goal, deliverables, dependencies, assigned agents, and success criteria. Related to deployment checklist, release process, final checklist, and product readiness.
 
 ## Templates
+
+- [.docs/templates/README.md](.docs/templates/README.md)
+  - Entry point for the reusable documentation templates available in this folder.
 
 - [.docs/templates/agent-template.md](.docs/templates/agent-template.md)
   - Template for documenting an agent role, responsibilities, ownership, exclusions, and workflow. Related to the agent documents.
