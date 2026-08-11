@@ -2,7 +2,7 @@
 
 ## Goal
 
-The Marketplace allows users and creators to discover, purchase, and share premium digital content that enhances the Eternal Bond experience.
+The Marketplace allows users and creators to discover, purchase, and share premium digital content that enhances the Yunis experience.
 
 ---
 

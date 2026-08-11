@@ -1,6 +1,6 @@
-# Eternal Bond Product Requirements
+# Yunis Product Requirements
 
-This directory contains the complete Product Requirements Documentation (PRD) for Eternal Bond.
+This directory contains the complete Product Requirements Documentation (PRD) for Yunis.
 
 Each document describes one area of the product.
 

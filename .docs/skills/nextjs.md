@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines how Next.js should be used throughout Eternal Bond.
+Defines how Next.js should be used throughout Yunis.
 
 ---
 

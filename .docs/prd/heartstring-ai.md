@@ -2,7 +2,7 @@
 
 ## Goal
 
-HeartString AI is Eternal Bond's intelligent companion.
+HeartString AI is Yunis's intelligent companion.
 
 Its purpose is to help users strengthen existing relationships through meaningful suggestions, reflections, guidance, and automation.
 

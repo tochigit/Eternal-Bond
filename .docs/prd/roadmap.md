@@ -87,4 +87,4 @@ Every new feature should answer one question:
 
 > "Does this genuinely help people build stronger relationships?"
 
-If the answer is no, it doesn't belong in Eternal Bond.
+If the answer is no, it doesn't belong in Yunis.

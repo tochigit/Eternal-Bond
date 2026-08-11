@@ -1,4 +1,4 @@
-# Eternal Bond Project Rules
+# Yunis Project Rules
 
 These rules apply to every AI agent and every contributor.
 
@@ -51,7 +51,7 @@ These rules apply to every AI agent and every contributor.
 
 # 6. UI/UX
 
-- Follow the Eternal Bond design system.
+- Follow the Yunis design system.
 - Mobile-first.
 - Responsive by default.
 - Accessibility should never be ignored.
@@ -90,7 +90,7 @@ Before marking a task complete:
 
 # 10. Philosophy
 
-Build Eternal Bond like a product that will serve millions of users.
+Build Yunis like a product that will serve millions of users.
 
 Every decision should prioritize:
 

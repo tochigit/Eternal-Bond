@@ -2,7 +2,7 @@
 
 ## Goal
 
-Prepare Eternal Bond for production.
+Prepare Yunis for production.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Philosophy
 
-Privacy is one of Eternal Bond's most important features.
+Privacy is one of Yunis's most important features.
 
 Users trust us with their memories.
 

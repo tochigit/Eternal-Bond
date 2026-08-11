@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document provides a high-level overview of Eternal Bond's architecture.
+This document provides a high-level overview of Yunis's architecture.
 
 The system is designed to be modular, scalable, maintainable, and AI-friendly. Every major feature should function as an independent module while integrating seamlessly with the rest of the platform.
 

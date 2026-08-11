@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines animation principles across Eternal Bond.
+Defines animation principles across Yunis.
 
 ---
 

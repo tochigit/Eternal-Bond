@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines how Supabase should be used throughout Eternal Bond.
+Defines how Supabase should be used throughout Yunis.
 
 ---
 

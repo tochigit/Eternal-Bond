@@ -2,7 +2,7 @@
 
 ## Role
 
-Responsible for the visual experience of Eternal Bond.
+Responsible for the visual experience of Yunis.
 
 ---
 

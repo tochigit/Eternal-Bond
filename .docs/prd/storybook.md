@@ -68,7 +68,7 @@ Examples:
 - Monthly
 - Yearly
 - Anniversary
-- Friendship Journey
+- Relationship Journey
 - Family Journey
 - Couple Journey
 - Custom
@@ -102,4 +102,4 @@ Creators may publish premium Storybook templates.
 
 # Long-Term Vision
 
-Storybooks should become one of Eternal Bond's signature features.
+Storybooks should become one of Yunis's signature features.

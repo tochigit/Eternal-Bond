@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines how Eternal Bond is built, deployed, and maintained.
+Defines how Yunis is built, deployed, and maintained.
 
 ---
 

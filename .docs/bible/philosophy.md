@@ -1,6 +1,10 @@
-# Eternal Bond Philosophy
+# Yunis Philosophy
 
-## Why Eternal Bond Exists
+Yunis — Stay connected to what matters.
+
+Relationships need connection. Connection needs intention.
+
+## Why Yunis Exists
 
 People have never been more connected digitally.
 
@@ -14,13 +18,13 @@ Dating applications help strangers meet.
 
 Very few products help existing relationships become stronger.
 
-That is the purpose of Eternal Bond.
+That is the purpose of Yunis.
 
 ---
 
 # Our Mission
 
-Strengthen existing human relationships.
+Strengthen meaningful human relationships.
 
 Not create new ones.
 
@@ -40,14 +44,16 @@ Technology should encourage those things instead of replacing them.
 
 ---
 
-# Eternal Bond Is
+# Yunis Is
 
-- Relationship platform
+- Universal relationship platform
 - Memory platform
 - Emotional platform
 - Growth platform
 
-It is NOT a dating app.
+Yunis supports couples, best friends, families, siblings, long-distance relationships, study partners, gaming partners, accountability partners, and other meaningful personal relationships.
+
+It is a universal relationship and connection platform, not a dating app.
 
 ---
 
@@ -71,6 +77,6 @@ Success is measured by:
 
 # Long-Term Vision
 
-Years from now, users should be able to open Eternal Bond and relive some of the happiest moments of their lives.
+Years from now, users should be able to open Yunis and relive some of the happiest moments of their lives.
 
 That is the standard every feature should support.

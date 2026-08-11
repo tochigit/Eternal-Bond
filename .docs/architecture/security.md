@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines the security principles and requirements for Eternal Bond.
+Defines the security principles and requirements for Yunis.
 
 ---
 

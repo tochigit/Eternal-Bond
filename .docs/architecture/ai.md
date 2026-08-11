@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines how Artificial Intelligence operates throughout Eternal Bond.
+Defines how Artificial Intelligence operates throughout Yunis.
 
 ---
 

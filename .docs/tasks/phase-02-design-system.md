@@ -2,7 +2,7 @@
 
 ## Goal
 
-Create the visual foundation of Eternal Bond.
+Create the visual foundation of Yunis.
 
 ---
 

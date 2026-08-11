@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Engineering at Eternal Bond is guided by one principle:
+Engineering at Yunis is guided by one principle:
 
 Build software that lasts.
 

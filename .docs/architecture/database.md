@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Defines the database structure, ownership, and data flow for Eternal Bond.
+Defines the database structure, ownership, and data flow for Yunis.
 
 ---
 

@@ -2,7 +2,9 @@
 
 ## Product Name
 
-Eternal Bond
+Yunis
+
+Yunis — Stay connected to what matters.
 
 ---
 
@@ -16,18 +18,21 @@ Help people build stronger, healthier, and more meaningful relationships through
 
 Become the world's leading platform for strengthening human connections.
 
-Eternal Bond is not a dating app.
+Yunis is a universal relationship and connection platform.
 
-It is a relationship platform for:
+It is not a dating app and it is not limited to a single relationship type.
 
-- Friends
+It supports:
+
 - Couples
-- Families
-- Long-distance relationships
 - Best friends
+- Families
 - Siblings
-- Parent and child
-- Mentors
+- Long-distance relationships
+- Study partners
+- Gaming partners
+- Accountability partners
+- Other meaningful personal relationships
 
 Anyone who wants to build a stronger connection.
 

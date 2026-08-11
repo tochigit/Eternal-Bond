@@ -2,7 +2,7 @@
 
 ## Vision
 
-Eternal Bond should become the world's most trusted platform for preserving and strengthening meaningful relationships.
+Yunis should become the world's most trusted platform for preserving and strengthening meaningful relationships.
 
 ---
 
@@ -10,7 +10,7 @@ Eternal Bond should become the world's most trusted platform for preserving and 
 
 Users should have years of memories safely preserved.
 
-Opening Eternal Bond should feel like opening a living timeline of their relationships.
+Opening Yunis should feel like opening a living timeline of their relationships.
 
 ---
 
@@ -56,7 +56,7 @@ New AI providers and models should be adopted without changing the overall user 
 
 ## Platform Evolution
 
-Eternal Bond should eventually exist across:
+Yunis should eventually exist across:
 
 - Web
 - Android
